@@ -53,19 +53,6 @@ Leaflet.js for map functionality
 Local Storage API for data persistence
 Geolocation API
 
-Setup and Installation
-
-Clone the repository
-Open index.html in a modern web browser
-Allow location access when prompted
-
-Browser Support
-The application requires a modern browser with support for:
-
-ES6+ features
-Geolocation API
-Local Storage
-CSS Grid and Flexbox
 
 Usage
 
@@ -97,16 +84,6 @@ Responsive design using Flexbox and Grid
 Custom styling for map markers and popups
 Mobile-friendly layout
 
-JavaScript Features
-
-ES6 Classes
-Private class fields and methods
-Local Storage API
-Geolocation API
-Event handling
-DOM manipulation
-Object-oriented programming
-Inheritance
 
 Future Enhancements
 Potential features that could be added:
